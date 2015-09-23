@@ -78,6 +78,7 @@ Optimize A Model
 Marketing
 ===================
 Check back in October for Marketing content!
+
 .. _core_content_Prototyping:
 
 ===================
