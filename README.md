@@ -23,7 +23,9 @@ Hello world! This repository stores the basic files that make up Udacity's TEND 
 
   6. Leave the "Commit directly to the master branch" option checked.
 
-  7. When you're done, click the green "Commit changes" button.
+  7. When you're done, click the green "Commit changes" button. Congrats!
+
+2. Updating the RST files does not change the actual live website. When the RST files are updated, just ping Brynn on Slack for now, and she'll do the next steps for you!
 
 ## What are RST files?
 
