@@ -4,7 +4,7 @@
 
 Hello world! This repository stores the basic files that make up Udacity's TEND extra resource page. Changing the actual page takes several steps, and the first is changing the RST files in this folder.
 
-## What are the steps for updating the CRC?
+## What are the steps for updating the TEND resources?
 
 1. Edit the RST files in this repository. In this step, you'll be changing the text you'll actually see on the web pages. If you're familar with Git already, you can download this repo, locally make changes, and push normally. Otherwise:
 
