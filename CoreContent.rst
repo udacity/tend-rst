@@ -77,11 +77,41 @@ Optimize A Model
 ===================
 Marketing
 ===================
-Check back in October for Marketing content!
+
+-----------------------
+Markets and Competition
+-----------------------
+- `Market Segmentation <https://www.udacity.com/course/viewer#!/c-ud719-nd/l-5379368718/m-5325262253>`_
+- `Personas and Understanding Users <https://www.udacity.com/course/viewer#!/c-ud719-nd/l-5379368718/m-5374108568>`_
+- `4 Levels of Market Competition <https://www.udacity.com/course/viewer#!/c-ud719-nd/l-5379368718/e-5360718566/m-5339851302>`_
+- `Competitive Analysis <https://www.udacity.com/course/viewer#!/c-ud719-nd/l-5379368718/m-5325333229>`_
 
 .. _core_content_Prototyping:
 
 ===================
-Prototyping
+Rapid Prototyping
 ===================
-Check back soon for Prototyping content!
+
+-----------------------------------------
+Low-Fidelity Prototypes and User Research
+-----------------------------------------
+- `What is a Prototype? <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5095104179/m-5096163632>`_
+- `Circles of Feedback <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5095104179/m-5096163633>`_
+- `Importance of User Flow <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5095104179/m-5096163640>`_
+- `How Many People Should We Interview? <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5095104179/m-5141108579>`_
+
+---------------------------------------
+Medium-Fidelity Prototypes and InVision
+---------------------------------------
+- `What is a Medium-Fidelity Prototype? <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5333532468/m-5383678566>`_
+- `Pros and Cons of Different Prototyping Tools <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5333532468/m-5383678569>`_
+- `Use InVision to Build a Prototype <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5333532468/m-5383678571>`_
+- `Get Feedback on an InVision Prototype <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5333532468/m-5383678591>`_
+
+--------------------
+Lifelong Prototyping
+--------------------
+- `Iterating Prototypes <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5386343079/m-5391044004>`_
+- `Code Prototypes <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5386343079/e-5391984438/m-5393213484>`_
+- `Advice on Recruiting or Hiring Coding Help <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5386343079/m-5391954214>`_
+- `Ways to Demo a Prototype <https://www.udacity.com/course/viewer#!/c-ud723-nd/l-5386343079/e-5390203522/m-5390203523>`_
