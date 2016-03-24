@@ -48,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Tech Entrepreneurship Nanodegree Resource Hub'
-copyright = u'2015, Udacity, Inc'
+copyright = u'2016, Udacity, Inc'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -126,7 +126,7 @@ html_theme_path = ["_themes", ]
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = 'favicon.png'
+html_favicon = 'favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -244,8 +244,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'careerhub', u'careerhub Documentation',
-   u'Udacity, Inc', 'careerhub', 'One line description of project.',
+  ('index', 'careerhub', u'Udacity, Inc', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -268,7 +267,7 @@ texinfo_documents = [
 epub_title = u'careerhub'
 epub_author = u'Udacity, Inc'
 epub_publisher = u'Udacity, Inc'
-epub_copyright = u'2015, Udacity, Inc'
+epub_copyright = u'2016, Udacity, Inc'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'careerhub'

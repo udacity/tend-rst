@@ -1,14 +1,12 @@
 .. _suggested_reading_and_course_list:
 
-*********************************
-Suggested Reading and Course List
+Suggested Readings
 *********************************
 
 Here you will find a great resource for useful websites, books, articles, blogs, courses, and videos all related to entrepreneurship.
 
 .. _useful_websites:
 
-========================
 Useful Websites
 ========================
 - `Competitive Research <https://www.crunchbase.com/organization/trello#/entity>`_
@@ -19,7 +17,6 @@ Useful Websites
 
 .. _suggested_books:
 
-========================
 Books
 ========================
 - **Hooked** - Nir Eyal
@@ -35,7 +32,6 @@ Books
 
 .. _suggested_articles:
 
-=============
 Articles
 =============
 - `7 Traits of Entrepreneurs <http://www.entrepreneur.com/article/230350>`_
@@ -52,7 +48,6 @@ Articles
 
 .. _suggested_blogs:
 
-========
 Blogs
 ========
 - `Andrew Chen's Blog <http://andrewchen.co/mobile-app-startups-are-failing-like-its-1999/>`_
@@ -66,13 +61,16 @@ Blogs
 
 .. _suggested_courses:
 
-==========
 Courses
 ==========
 - `How to Build a Start-Up <https://www.udacity.com/course/how-to-build-a-startup--ep245>`_
 
-===========
+
 Videos
 ===========
 - `Udacity Tech Entrepreneur Webcasts <https://discussions.udacity.com/t/tend-webcast-directory/34544>`_
 - `Google Demo Day <https://www.youtube.com/watch?v=QxptCWOqIRM>`_
+
+Podcasts
+===========
+ - `Startup <https://gimletmedia.com/show/startup/episodes/>`_
