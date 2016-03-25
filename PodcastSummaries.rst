@@ -41,17 +41,230 @@ Episode 3
 ------------
 Link to `Podcast <https://soundcloud.com/udacity-tech-entrepreneur/e03-validate-your-idea>`_
 
+At this stage, you need to validate whether the problem is actually a pain other people face and whether your idea can actually address the pain.
+
+Later on in course, we’ll show you more techniques for market validation, but the best way to get things going is to simply get out there and talk with people and understand their pain points, needs, and desires.
+
+**Tomer Sharon** talks about how to do user research
+
+- Write questions you want to answer
+- Ask people these questions
+- Get answers to help make decisions
+
+  **What kind of questions should I ask?**
+    - What do people need?
+    - What do people want?
+    - Can they use the product?
+
+    Focus on what people need and want. Try to go out and verify whether the problem you identified is a problem other people face?.
+
+    Avoid telling people your solution first! Try to verify the problem and understand what people have done to cope with the problem.
+
+    This process will give you insight to competitors and the status quo of dealing with the problem now.
+
+At the end of the research, you then ask your questions relating to your solution and figure out whether your solution may help solve the problem these people face.
+
+**Aaron Harris** seems to have a contrasting viewpoint
+
+  - Build something and just let people interact with it! Get people to try it out!
+  - You have a hunch, you build something for yourself, and then you go and test it out!
+  - Pick people and give it out to them and iterate fast on it.
+
+- With these two viewpoints, what do you do?
+
+  **Scenario 1**: You have nothing; starting from scratc and cannot build anything fast
+
+    Follow Tomer’s advice: first go out out and verify the problem and write your observations.
+
+  **Scenario 2**: You’ve verified the problem exists already
+
+    Make your mockups, build something that can be interactive like a powerpoint slide with your drawings or a simple website with your drawings with links for people to navigate your mockups. Build it and show it in front of people.
+
+**Don’t forget to make sure you to define what questions you want to answer as well during this process.**
+
+**Additional Resources**
+
+Michael talks a little more detail on UX research and prototyping. He’ll
+reiterate what we just talked about in your different stages in your
+Research.
+
+  - Prototyping:
+  - Drawings
+  - Basic Software:
+      1. Powerpoint
+      2. Keynote
+      3. PDF with links
+      4. Pixate, Invision, Balsamiq
+
+I also created a webcast that talked about identifying your critical
+questions to help you figure out how to start conducting research. It’s a
+framework that takes you from observations to you identifying your critical
+questions you should ask in order to get your research started on:
+
+  - The customer
+  - The competition
+  - The environment that will affect your business
+      - Political/Government factors
+      - Economic factors
+      - Social factors
+      - Environment factors
+      - Technology factors
+      - Legal factors
+
+**Harpender Singh**
+
+  Focus on Niche or Large Markets first?
+    Depends on what you want to do and your core competencies? Goes back to execution
+
+  Let's first go back to Niche and Large Markets? What is that? Why do you hear this thrown around in the Entrepreneur scene?
+
+    - Niche => Small? Not necessary. Niche is a subset of population that can be served better than what companies out there can do for them.
+    - Large Markets => A lot of people => More established competitors and companies you should understand first.
+
+  What about the viewpoint of creating a new market?
+    - New markets stem from old markets. Look at typewriter to computer. Human functions relating to human behavior will always exist.
+    - We still need to understand what people have been doing now in order to improve and show them what can people do now with your product.
+
+  *Remember to always find context in your solutions.*
+
+  **Mark’s recommendation => Go niche first, then growing market, then seek an established market**
+
+**Project Tips**
+
+  - Make your list of questions you want to ask to people
+
+  - If you're starting off, go out and verify whether there is a pain point for people.
+  - If verified already
+
+    Draw up a rough sketch of what you think the solution would look like and ask for people’s opinion.
+
+    Vet the questions and show the questions to your friends and family. They can help you hone the questions and focus the communication.
+
+  - Make a list of family and friends
+      - Do not go to them, but ask them for their contacts and their own friends
+
+  - Best way -> Figure out who your customer is and where will they likely be:
+      Malls, Parks, Temple/Church/Mosque (any sort of public gathering)
+
+  - **How to approach strangers?**
+      1. First know that people are generally nice and they wouldn’t mind helping out a student. If people say no, they’re not rejecting you personally. They’re telling you that right now, they don't want the opportunity to talk; it’s nothing personal.
+      2. Look for people who look bored.
+      3. Approach people and say “I’m a student and I’m working on my business plan, can you spare 30	seconds to talk with me about my business idea?”. This gives people a time-bound so they can evaluate whether they have the time and priority to talk with you.
+      4. Get people to say yes and then continue to get them to say yes again.
+
 .. _Podcast - Episode 4:
 
 Episode 4
 ------------
 Link to `Podcast <https://soundcloud.com/udacity-tech-entrepreneur/e04-build-a-prototype>`_
 
+**Prototypes - Key Takeaway = Don’t get attached to them!**
+
+	- Prototypes that you build at first should be fast, cheap, and disposable which means *pen/paper!*
+
+  - Draw a lot and throw them away until you’re happy with something
+
+**Choosing users for feedback**
+
+  - For low fidelity prototypes, it’s okay to use your close circles (friends, family, colleages) for validation
+
+  - For higher fidelity prototypes it’s best to test with wider circles (strangers, potential users)
+
+**Gathering feedback**
+
+	- Think about questions you want to ask your users before you go find them. Base these questions around:
+
+    - What do people need ?
+    - What do people want?
+    - Can they do the tasks intentioned in the app?
+
+	- For example (Can you show me how you might add an appointment?) for an appointment app
+
+**Observe**
+
+  - Stay out of people’s way when gathering feedback, get users to think aloud
+	  - Take notes!
+
+  - Do users easily identify what the functionality of the app is?
+
+  - What is getting in the way of their use of that functionality?
+
+  - What expectations do they have of potential supplemental functionality for the app?
+
+**Implementing Feedback**
+
+- Try to design to be accessible to everyone, not just the most vocal user
+
+- Annotate your prototype with changes to make with sticky notes or invision notes.
+
+- Bounce ideas off of someone, a Udacity coach would be a great resource `here <https://calendly.com/tend-coach/>`_
+
+- Be flexible, you may need to change your approach entirely, but this is part of the process
+
+*Test Again*
+  *Iterate Iterate Iterate.*
+
+  For this project submission you only need two rounds of user testing, but feel free to do as many as you need.
+
 .. _Podcast - Episode 5:
 
 Episode 5
 ------------
 Link to `Podcast <https://soundcloud.com/udacity-tech-entrepreneur/e05-find-your-target-audience>`_
+
+**Understanding Customers with Geoffrey Moore**
+
+- The first phase of marketing should always be to understand your customer. You can do this through:
+
+  Market Segmentation - FOCUS on the consumer, not product and make sure the product fits the customer. Break down your target market by certain characteristics like:
+
+    - Behavior
+    - Lifestyle
+    - Preferences
+    - Location
+    - Demographics (income, race, age range, family status, etc.)
+    - Occasion
+    - Culture
+
+  Best to start with a small, but high quality segment. Get feedback and iterate quickly
+
+**Define a Persona** Specific sample to represent your market segment
+
+- Name - picture
+
+	- Demographic
+
+	- Geographic
+
+	- Occasional/Cultural
+
+	- Behavioral/Psychographic (lifestyle)
+
+	- Needs/Wants
+
+**Next stage: Identifying Competitors**
+
+Do your research! Do some google searches, ask your friends, ask random people on the subway
+
+	*Competitive analysis* Identify 3 Competitors on two axes. Be specific!
+
+		- Possible Axes are price, level of personalization, time, etc
+
+		- Think about what distinguishes your product among competitors
+
+**Value Positioning Statement**
+
+  For __________ (define customer) who _______ (define the need) our product is ______________(describe product) that provides _______________ (describe benefit).
+  Unlike _________ (list competitors), Our product ____________ (describe key differences from competitors).
+
+This is your chance to define and separate your product from the masses.
+
+Below is an example::
+
+  For example: For Parents who are too busy to give their children rides. Our product is an on-demand ride app
+  that allows parents to schedule rides for their child. Unlike Lyft, Shuddle drivers undergo thorough background
+  checks and are insured to transport minors.
+
 
 .. _Podcast - Episode 6:
 
