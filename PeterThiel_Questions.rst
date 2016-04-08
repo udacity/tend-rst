@@ -1,6 +1,3 @@
-.. _crucial_questions_for_your_business:
-
-********************************************
 Crucial Questions to Your Ask Of Business
 ********************************************
 

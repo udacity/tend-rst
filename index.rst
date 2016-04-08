@@ -13,6 +13,7 @@ Contents
    :maxdepth: 1
    :caption: Tech Entrepreneur Nanodegree Resources
 
+   ResourceFiles.rst
    PeterThiel_Questions.rst
    NDCourseOutline.rst
    PodcastSummaries.rst

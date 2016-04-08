@@ -44,6 +44,7 @@ Articles
 - `How To Evaluate Market Demand For Your New Product Idea <https://www.shopify.com/blog/13444793-how-to-evaluate-market-demand-for-your-new-product-idea>`_
 - `Introduction to Economics <http://www.infoplease.com/cig/economics/economics-cares.html>`_
 - `Why ‘Assistant-As-App’ Might Be the Next Big Tech Trend <http://www.nirandfar.com/2015/07/why-assistant-as-an-app-might-be-the-next-big-tech-trend.html>`_
+- `Crash Course in UX Design <https://medium.com/user-experience-design-1/a-crash-course-in-ux-design-research-ea00c3307c82#.q4c1xnh0f>`_
 
 
 .. _suggested_blogs:

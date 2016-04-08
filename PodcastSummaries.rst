@@ -29,11 +29,110 @@ Episode 1
 ------------
 Link to `Podcast <https://soundcloud.com/udacity-tech-entrepreneur/e01-intro-nanodegree-program-and-brainstorming>`_
 
+**Welcome**
+
+For each podcast episode episode your coaches, Mark and Jonah we will give you big overview of the lessons you will learn in your coursework and talk about how to apply the lessons to your assignments.
+
+Assignments take 1 to 2 weeks to complete and we’ll also go over the rubric as well to make sure that you know what we expect from you.
+
+We will also give you specific advice and frameworks to help you complete your projects and help you develop your business ideas.
+
+**Program Overview**
+
+The value of this not the content, but the support you get from participating in this Nanodegree program.
+
+We are specifically talking about frequent feedback from your reviewers and coaches here at Udacity on your specific idea and gain access to us, your coaches here at Udacity to help mentor and guide you.
+
+We’ve laid out a format for you to strictly follow to learn about business. Follow this format to the letter. Do not deviate from this format because we’re giving you good frameworks in order to:
+
+- Think about ideas
+- Communicate your ideas
+
+At the end of the program, you will complete a pitch deck to serve a basis to help build your product.
+
+You are not expected to build the product; there is no coding involved. This Nanodegree program is all about doing the necessary research by etting quick feedback from your customers in the market place.
+
+**Brainstorming**
+
+Let's talk about brainstorming. As part of Project 0.1, you are expected to come up with  three problems and choose one idea to write about. Tell us what idea do you have to solve this problem.
+
+**Your Ideas**
+
+  We want to remind you that your ideas are your very own ideas. Udacity does not own your ideas in any way. Our terms of service agreeement outlines that all student work is the property of the student. Here is the link to the `terms of service <https://www.udacity.com/legal>`_
+
+  **Starting off**
+
+  Put your idea on paper and write it out.
+
+  **How do you come up with solutions? How do you come up with ideas?**
+
+  1. Observe and listen
+  2. Look at your daily life and see what can you:
+  
+       - Make things faster
+       - Make things easier
+       - Make people feel better
+       - Allow people to do other things in life
+
+  3. Look at your own problems and needs and wants. Ask yourself what sort of cool stuff can technology help alleviate this problem? What sort of cool stuff can technology help make my life easier?
+
+  4. What if tech is complicated? What if I don’t know any tech at all?
+     
+     The Nanodegree program focuses on building applications and building a good UX experience. You know enough technology already because you use software everyday.
+     
+  5. How about building Hardware or advanced software?
+  
+     This Nanodegree program focuses your efforts on user validation and product design. If you need to know more technology such as AI/ Machine Learning/Stock Trading, you may need to explore another program or read up on the research that’s out there on the internet to get a good enough sense of the how to implement the technology you want to build.
+
+**Idea generation**
+
+1. Write anything and everything down. Don’t limit yourself
+   - T-charts
+   - Mindmaps
+   - Write 10 ideas in 2 minutes
+
+   This is a "shotgun" approach. We write freely and think of all the crazy stuff that could happen. We’ll go more into more detail in the next lesson and refine your ideas. the first step is to just write something down so we can give you your first feedback. 
+
+
 .. _Podcast - Episode 2:
 
 Episode 2
 ------------
 Link to `Podcast <https://soundcloud.com/udacity-tech-entrepreneur/e02-choose-your-idea>`_
+
+**Choosing Idea**
+
+In this episode, we explore the interviews in the lesson and highlight the big concepts you should take away
+
+1. **Entrepreneurial Mindset**
+
+  - Seek problem that you’re having yourself - Aaron Harris from Y-Comb
+  - Be in a growth market. Rising tide.
+  - Talk about different types of ideas that make sense for software
+      1. Solve novel problem
+      2. Extend a current solution
+      3. Industry disruptor
+
+2. **Nir Eyal - Hooked Model**
+  
+  The Hooked Model:
+    
+      1. **Trigger:** Graph people's attention and guide them to what you want to do
+      2. **Action:** Make sure what you're asking users to do is clear
+      3. **Reward:** Give people a reward for the action. Make sure reward is variable
+      4. **Invest:** The actions should get people to invest more time and effort into the app. This will keep them coming back.
+
+3. **Execution is key, ideas are cheap**
+
+    As we’ve said many times, the people matter more than the idea. Plus you can’t do a good job on something unless you’re genuinely interested in it. So don’t apply with an idea described in an RFS if there’s some other idea you’d rather work on. You’re more likely to get funded to work on the idea you actually like. - YCombinator website
+
+  **What idea can you execute on?**
+    Make sure the idea you're working contains these four elements:
+      1. Problem is a vitmain or a painkiller
+      2. You can make money off this idea
+      3. It is focused and can be simply understood
+      4. Personally relevant. Try to solve a problem that you personally have.
+
 
 .. _Podcast - Episode 3:
 
@@ -271,6 +370,96 @@ Below is an example::
 Episode 6
 ------------
 Link to `Podcast <https://soundcloud.com/udacity-tech-entrepreneur/e06-making-money>`_
+
+**Lesson Overview**
+
+  **Desiree Motamedi - Product Marketing Manager, Google**
+    
+    **Main Message**: Start off small and your business can snowball and grow into a great business. The key is to know your audience and figure out what they want. Think of how to make money from the start and not the end of your app design.
+
+  **Different schools of thought on making money exist though**
+  
+     **Back then:** During the tech bubble in the late 1990's: Entrepreneurs just focused on getting users. After they gain enough market share, they can figure out the revenue model.
+
+     **Now:** Tech investments slowing down now (mid-2016). Investors want to see revenue earlier. Tech entrepreneurs need to figure out how to make profit revenue earlier.
+
+  **Profits vs Revenue**
+
+     - Revenue = total money you're getting
+     - Profit = total money you're getting after deducting your costs.
+
+  **Metrics**
+     These are important to understand because business involves keeping track of costs and keeping track of revenues. You want to make sure that you're getting a return on your time, effort, and money.
+     
+     1. **Customer Loyalty**
+
+       This basically means whether customers are able to form a habit using your product. You can measure habit formation by measuring the frequency of usage of your app.
+
+     2. **Customer Retention**
+
+       You need to make sure that customers stay with you for a long time. You can measure this by measuring the total time your customers use your application.
+
+     3. **Customer Acquisition Cost**
+
+       This is a very important metric because it outlines how much money you invest to gain a customer. Common acquisition costs involve advertisements, coupons, and sales to get people to sign up and use your app.
+         You need to make sure that the cost to get a customer is less than the total money you expect a customer to give you over the lifetime, in order words, Customer Acquisition Cost should be less than Customer Lifetime Value: **CAC < CLV**
+
+  **KPIs**
+
+  A KPI is a measurement of progress or a milestone that we can constantly check to ensure that we are going in the right direction to achieve our goal.
+
+    Let's break down the goal "Gain 10% new paying customers every month" to clearly define what is a metric, what is the KPI, and what is the goal that the KPI should refer to. Let's work backwards and think of our goal first:
+
+      **Goal:** Gain 1000 paying customers by June, 2016
+      
+      **Metric:** Percent of Paying Customers for any given month
+
+      **KPI:** Grow new Paying Customers by 10% every month
+
+  **Monetization Models**
+
+    1. Freemium
+    2. In-app billing
+    3. In-app payments
+    4. Advertisements
+    5. Premium
+
+  **Key Point: Think about your business and think about your customer. How do you match your customer with your product.**
+
+  **Kevin Hale - Partner of Y-Combinator**
+
+    The big question: Growth vs Monetization?
+    Kevin's answer: Depends on what you’re trying to do. 
+      For example, social networks need a strong base of users before you can develop an advertising platform or sell user behavior information.
+
+  **Important:** Have an idea of how to make money from the start and not at the end. We need to think about long term value for people so they can keep using our product over and over again.
+
+  **Ido Green**
+
+  Talks about the main process in product design and monetization
+
+    - Develop product
+    - Acquisition (get users)
+    - Retention (delight users and keep them)
+    - Earning - Make it easy to pay
+
+      1. Fast form field fill out for eCommerce
+      2. Make In-app purchases super easy
+      3. Use Ads to enhance experience
+
+**Project Tips**
+
+1. Identify similar monetization models
+
+  Do your research well. Go out into the App Store or Play Store and look at the top 20 grossing applications. Download them and use them and see how they make money.
+
+2. KPI’s
+
+  It’s a way to help you figure out whether you’re on the right track. In the later project, you’ll dive deeper into KPIs.
+
+  It’s fine to think about what would look good for you if you check in on your product performance every week, what do you want to see?
+
+
 
 .. _Podcast - Episode 7:
 
